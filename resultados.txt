@@ -1,0 +1,36 @@
+Top productos:
+producto
+Tacos     110
+Hotdog     98
+Sushi      86
+Pasta      84
+Pizza      76
+Burger     71
+Name: cantidad, dtype: int64
+
+Mejor cliente:
+cliente
+Ana       7000.0
+Pedro     6280.0
+Sofia     6120.0
+Miguel    6120.0
+Lucia     5610.0
+Carlos    5580.0
+Juan      5250.0
+Elena     4910.0
+Maria     3510.0
+Luis      3150.0
+Name: total, dtype: float64
+
+Ventas por ciudad:
+ciudad
+Cdmx            8470.0
+Guadalajara     5380.0
+Monterrey       8730.0
+Puebla          7190.0
+Queretaro      11000.0
+Toluca         12760.0
+Name: total, dtype: float64
+
+Ticket promedio:
+305.8857142857143

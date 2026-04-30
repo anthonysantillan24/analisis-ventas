@@ -1,0 +1,851 @@
+id_venta,fecha,cliente,producto,precio,cantidad,ciudad
+1,2024-02-10,Juan,Pasta,80,2,Queretaro
+2,2024/01/07,Miguel,Pizza,50,1,CDMX
+3,2024-01-14,Miguel,Sushi,one hundred,2,Queretaro
+4,2024/02/11,Miguel,Hotdog,150,3,
+5,2024-02-25,Luis,Pasta,100,2,Guadalajara
+6,18-02-2024,Ana,Pizza,100,3,Toluca
+7,2024-01-17,Lucia,Sushi,120,1,Toluca
+8,2024/01/19,Elena,Tacos,50,1,Queretaro
+9,15-01-2024,Ana,Burger,120,3,Puebla
+10,10-02-2024,Luis,Tacos,100,1,Toluca
+11,2024-02-10,Miguel,Pasta,120,4,Monterrey
+12,2024/02/29,Miguel,Burger,50,2,
+13,03-01-2024,Pedro,Tacos,one hundred,5,Queretaro
+14,2024-01-21,,Hotdog,120,2,Monterrey
+15,2024-01-09,Miguel,Sushi,150,4,Toluca
+16,26-01-2024,Maria,Burger,50,1,
+17,2024-01-08,,Burger,120,5,CDMX
+18,25-01-2024,Elena,Hotdog,150,1,Queretaro
+19,2024-02-16,,Sushi,100,1,Monterrey
+20,2024-01-28,Lucia,Pizza,100,5,
+21,2024/01/12,Ana,Pasta,150,5,Guadalajara
+22,10-01-2024,Luis,Sushi,150,1,Toluca
+23,21-01-2024,Juan,Pizza,100,2,CDMX
+24,2024/01/16,Ana,Pizza,50,5,
+25,2024-01-09,,Hotdog,80,3,Toluca
+26,2024/02/25,Pedro,Burger,80,3,Puebla
+27,2024/02/12,Sofia,Hotdog,120,1,Guadalajara
+28,2024-01-15,Sofia,Pizza,80,5,Guadalajara
+29,2024-01-01,,Pizza,50,3,CDMX
+30,2024-02-02,Carlos,Pasta,150,2,Queretaro
+31,2024/02/29,Elena,Hotdog,120,4,Guadalajara
+32,2024-01-07,,Hotdog,120,4,
+33,2024-02-16,,Pasta,50,1,Puebla
+34,16-02-2024,Ana,Burger,150,4,Guadalajara
+35,2024-01-28,Carlos,Hotdog,50,4,
+36,2024/02/25,Ana,Pizza,150,1,CDMX
+37,2024-02-29,Luis,Hotdog,80,4,CDMX
+38,11-01-2024,Juan,Hotdog,120,3,Puebla
+39,2024/02/14,Miguel,Pasta,80,2,Monterrey
+40,2024-01-14,Elena,Pasta,100,1,CDMX
+41,07-02-2024,Miguel,Sushi,150,1,
+42,2024-01-12,Elena,Pizza,80,4,CDMX
+43,2024/03/01,Maria,Sushi,150,1,Puebla
+44,2024/02/12,Elena,Sushi,100,2,Queretaro
+45,15-02-2024,Maria,Tacos,100,4,Monterrey
+46,2024-02-29,Juan,Hotdog,150,1,CDMX
+47,2024-02-04,Miguel,Tacos,100,1,Guadalajara
+48,24-01-2024,Luis,Hotdog,100,5,
+49,2024/02/11,Juan,Pasta,100,1,Guadalajara
+50,2024-01-17,Ana,Pasta,100,3,Toluca
+51,2024/01/14,Sofia,Burger,100,5,Puebla
+52,2024-01-17,Ana,Pasta,100,1,CDMX
+53,2024-01-22,,Tacos,120,5,Queretaro
+54,2024/01/28,Juan,Pizza,one hundred,2,Toluca
+55,03-01-2024,Elena,Sushi,80,1,Monterrey
+56,2024-01-24,Sofia,Burger,50,3,
+57,05-02-2024,Elena,Pasta,80,2,
+58,2024-02-21,Pedro,Pizza,100,4,
+59,2024/02/12,Maria,Tacos,50,4,
+60,03-01-2024,Maria,Burger,120,3,Monterrey
+61,2024-02-22,Maria,Pizza,120,3,Monterrey
+62,2024-02-25,Carlos,Tacos,120,5,Monterrey
+63,2024-03-01,Ana,Tacos,100,1,CDMX
+64,08-02-2024,Sofia,Pasta,120,5,Toluca
+65,08-01-2024,Elena,Burger,120,1,Toluca
+66,2024/02/29,,Pasta,80,3,Puebla
+67,2024/01/05,Sofia,Sushi,50,3,Toluca
+68,2024/01/20,Pedro,Tacos,100,5,Guadalajara
+69,13-01-2024,,Hotdog,80,5,Toluca
+70,20-01-2024,Miguel,Pizza,80,4,
+71,2024/02/07,,Tacos,120,2,Toluca
+72,2024/01/31,Luis,Pasta,one hundred,5,Queretaro
+73,2024/02/10,Sofia,Pizza,80,3,Guadalajara
+74,2024-02-21,Luis,Pizza,one hundred,4,Toluca
+75,2024-02-24,Lucia,Hotdog,150,2,Queretaro
+76,14-02-2024,Lucia,Hotdog,50,1,
+77,2024-01-28,Luis,Pasta,50,5,Guadalajara
+78,2024-02-28,Lucia,Burger,150,5,Toluca
+79,21-01-2024,Elena,Pasta,120,5,Puebla
+80,2024-02-27,Lucia,Hotdog,80,3,
+81,2024/02/19,Lucia,Pasta,120,1,Queretaro
+82,2024-01-19,Carlos,Tacos,150,1,Guadalajara
+83,2024-01-10,Pedro,Pasta,80,1,Puebla
+84,27-01-2024,Miguel,Hotdog,80,4,Puebla
+85,2024/02/27,Juan,Sushi,50,3,Monterrey
+86,18-02-2024,Pedro,Sushi,150,5,Guadalajara
+87,2024-02-01,Carlos,Hotdog,120,3,Queretaro
+88,13-02-2024,Luis,Hotdog,150,5,CDMX
+89,28-02-2024,Elena,Sushi,50,4,Guadalajara
+90,25-02-2024,Luis,Pizza,100,2,Puebla
+91,21-01-2024,Pedro,Tacos,120,3,
+92,06-01-2024,Juan,Pasta,100,2,Queretaro
+93,2024/01/05,Juan,Pizza,80,1,Toluca
+94,2024-01-10,Luis,Hotdog,150,2,Puebla
+95,14-02-2024,Sofia,Burger,50,2,Monterrey
+96,2024/01/07,Juan,Tacos,120,4,Queretaro
+97,2024-01-13,Elena,Pasta,80,1,Queretaro
+98,19-02-2024,,Sushi,150,1,Monterrey
+99,04-02-2024,,Tacos,one hundred,3,CDMX
+100,24-02-2024,Lucia,Pizza,100,4,Queretaro
+101,10-01-2024,Luis,Pasta,100,5,
+102,2024/02/28,Lucia,Hotdog,150,3,Monterrey
+103,2024-02-24,Ana,Tacos,80,4,Toluca
+104,2024/02/09,Pedro,Tacos,one hundred,3,Guadalajara
+105,2024-02-01,Sofia,Tacos,150,3,Toluca
+106,2024/01/01,Maria,Pizza,120,4,Toluca
+107,2024-02-18,Lucia,Pasta,120,1,CDMX
+108,2024-01-19,Pedro,Pasta,150,3,Puebla
+109,2024/02/05,Sofia,Hotdog,150,3,Monterrey
+110,14-02-2024,Carlos,Tacos,50,2,Monterrey
+111,2024/01/08,Miguel,Pasta,80,4,Monterrey
+112,2024/02/16,Miguel,Sushi,50,2,Monterrey
+113,15-01-2024,Luis,Tacos,one hundred,5,Guadalajara
+114,2024-01-18,Juan,Sushi,80,4,CDMX
+115,2024-02-25,Elena,Tacos,120,3,Guadalajara
+116,04-01-2024,Lucia,Pizza,120,4,CDMX
+117,2024/02/06,,Pizza,150,3,CDMX
+118,2024-01-16,Miguel,Hotdog,150,2,
+119,03-02-2024,Lucia,Hotdog,150,4,Monterrey
+120,2024/02/06,Juan,Sushi,50,2,Queretaro
+121,14-01-2024,,Pizza,80,5,CDMX
+122,2024-01-11,Pedro,Hotdog,120,3,CDMX
+123,15-01-2024,Carlos,Pasta,50,2,Monterrey
+124,2024/02/20,Elena,Pasta,80,4,CDMX
+125,2024-02-04,,Burger,80,1,CDMX
+126,11-01-2024,Elena,Pasta,100,4,CDMX
+127,2024/01/30,Carlos,Pasta,100,5,Toluca
+128,01-02-2024,Ana,Sushi,one hundred,4,Queretaro
+129,2024/01/21,Carlos,Pizza,one hundred,5,Toluca
+130,2024-03-01,,Tacos,80,4,Toluca
+131,11-02-2024,Carlos,Burger,120,4,CDMX
+132,31-01-2024,Pedro,Tacos,50,2,Monterrey
+133,2024/01/27,Lucia,Tacos,120,5,CDMX
+134,2024-01-30,Sofia,Tacos,120,5,
+135,2024/01/01,Miguel,Hotdog,80,5,Monterrey
+136,09-02-2024,,Hotdog,80,3,Toluca
+137,09-01-2024,Lucia,Pasta,50,5,
+138,2024/01/16,Luis,Tacos,150,4,CDMX
+139,2024-01-15,Lucia,Pizza,80,4,Queretaro
+140,2024/01/19,Carlos,Hotdog,120,2,Puebla
+141,2024-02-05,Pedro,Burger,150,2,
+142,05-01-2024,Pedro,Tacos,150,3,
+143,01-01-2024,Carlos,Sushi,120,2,Puebla
+144,04-02-2024,Sofia,Tacos,150,4,Puebla
+145,29-02-2024,Maria,Pasta,120,2,
+146,19-02-2024,Juan,Tacos,120,4,Queretaro
+147,2024/02/20,Luis,Hotdog,80,5,Toluca
+148,2024-01-22,Lucia,Pizza,120,1,Queretaro
+149,10-01-2024,,Burger,one hundred,3,Monterrey
+150,2024/02/09,Pedro,Pasta,one hundred,3,
+151,2024/02/13,Pedro,Tacos,120,5,CDMX
+152,2024-02-09,Maria,Pasta,100,2,Queretaro
+153,06-01-2024,Ana,Pasta,50,4,Guadalajara
+154,14-02-2024,Juan,Pizza,50,3,Monterrey
+155,24-01-2024,Luis,Burger,150,2,Guadalajara
+156,2024-01-12,Elena,Hotdog,80,4,Toluca
+157,2024-01-10,Lucia,Pasta,100,1,
+158,30-01-2024,,Sushi,120,3,Toluca
+159,2024/01/20,Pedro,Pasta,100,2,Puebla
+160,24-02-2024,Ana,Burger,100,5,Monterrey
+161,14-02-2024,Juan,Pasta,50,5,
+162,2024/02/13,Juan,Sushi,100,2,Toluca
+163,21-02-2024,Maria,Pasta,100,2,Queretaro
+164,2024/01/07,,Pizza,120,1,Toluca
+165,2024/01/24,Luis,Pizza,100,4,Guadalajara
+166,2024-01-13,Miguel,Tacos,100,2,Monterrey
+167,28-02-2024,Carlos,Pasta,50,4,CDMX
+168,2024-01-10,,Pasta,120,5,Monterrey
+169,06-01-2024,Juan,Tacos,120,3,Queretaro
+170,2024/02/17,Carlos,Sushi,100,1,Queretaro
+171,15-01-2024,Juan,Sushi,150,3,Toluca
+172,2024/01/15,Ana,Pasta,100,4,CDMX
+173,2024-01-09,Juan,Tacos,50,1,Guadalajara
+174,2024/02/26,Luis,Hotdog,150,4,Toluca
+175,2024/02/17,Luis,Hotdog,120,5,Puebla
+176,01-03-2024,Juan,Pasta,120,4,Guadalajara
+177,24-02-2024,Ana,Pasta,100,1,Puebla
+178,2024-01-18,Ana,Hotdog,one hundred,2,Queretaro
+179,2024/02/10,Juan,Pizza,80,2,
+180,2024-02-06,Ana,Sushi,80,2,Monterrey
+181,2024-02-19,Elena,Pizza,80,2,Toluca
+182,2024-01-17,Ana,Pasta,80,1,Monterrey
+183,2024-02-20,Elena,Tacos,one hundred,3,CDMX
+184,2024/01/09,Pedro,Sushi,50,4,Puebla
+185,19-02-2024,Miguel,Sushi,150,2,Toluca
+186,2024/01/03,,Sushi,50,1,Puebla
+187,24-02-2024,Pedro,Pasta,120,1,CDMX
+188,2024/01/21,Luis,Pizza,150,5,Toluca
+189,15-02-2024,Pedro,Sushi,120,5,Toluca
+190,2024-01-28,Ana,Pasta,150,2,Puebla
+191,2024-01-29,Pedro,Tacos,120,4,Queretaro
+192,07-01-2024,Pedro,Tacos,100,2,Queretaro
+193,29-02-2024,Ana,Pizza,50,4,CDMX
+194,2024/02/17,Sofia,Burger,150,5,Toluca
+195,2024/01/22,Ana,Hotdog,120,1,Monterrey
+196,08-02-2024,Sofia,Pizza,80,2,Queretaro
+197,2024-01-31,Ana,Tacos,100,1,
+198,2024/01/18,Maria,Hotdog,150,5,Queretaro
+199,2024/02/11,Juan,Sushi,100,1,Guadalajara
+200,2024/01/18,Carlos,Tacos,80,2,Toluca
+201,12-02-2024,Ana,Burger,50,1,Queretaro
+202,2024-02-03,Pedro,Hotdog,80,3,Monterrey
+203,16-02-2024,Elena,Sushi,one hundred,1,Guadalajara
+204,2024/01/11,Juan,Pasta,one hundred,4,Queretaro
+205,28-01-2024,Elena,Hotdog,80,5,CDMX
+206,23-01-2024,Ana,Tacos,150,4,Toluca
+207,12-02-2024,Juan,Burger,150,1,CDMX
+208,14-01-2024,Maria,Burger,100,3,CDMX
+209,01-01-2024,Pedro,Burger,150,2,Toluca
+210,2024/02/05,Sofia,Pizza,50,4,CDMX
+211,2024-01-30,Sofia,Sushi,120,4,Monterrey
+212,08-01-2024,Juan,Tacos,150,4,
+213,14-02-2024,Ana,Hotdog,80,4,Toluca
+214,2024/01/26,Ana,Hotdog,100,2,Monterrey
+215,2024-02-19,Ana,Sushi,150,5,Guadalajara
+216,27-02-2024,Sofia,Pasta,80,2,CDMX
+217,10-01-2024,Maria,Burger,50,2,
+218,10-02-2024,Lucia,Sushi,120,5,Queretaro
+219,2024/02/10,Sofia,Pasta,120,1,Puebla
+220,2024/01/29,Carlos,Tacos,100,5,CDMX
+221,20-01-2024,Lucia,Pizza,one hundred,3,CDMX
+222,2024-02-11,Elena,Sushi,120,5,Toluca
+223,2024/02/20,Juan,Hotdog,150,2,Monterrey
+224,08-02-2024,Miguel,Burger,120,1,
+225,27-02-2024,Ana,Sushi,50,2,Queretaro
+226,29-01-2024,Miguel,Sushi,100,3,Monterrey
+227,25-01-2024,Sofia,Pasta,100,1,Monterrey
+228,2024/01/07,,Hotdog,150,2,Monterrey
+229,2024/01/06,,Burger,100,4,Guadalajara
+230,2024/02/08,Ana,Tacos,100,2,Queretaro
+231,2024/02/14,,Sushi,one hundred,4,Toluca
+232,2024-01-24,Sofia,Tacos,80,3,
+233,2024-02-01,Maria,Burger,100,1,Toluca
+234,2024/02/19,Miguel,Pizza,150,2,Toluca
+235,2024-01-25,Luis,Burger,150,2,Queretaro
+236,2024-01-29,Pedro,Tacos,80,4,Toluca
+237,2024/01/19,Lucia,Burger,100,4,
+238,13-01-2024,,Sushi,120,3,
+239,2024/01/25,Miguel,Hotdog,80,5,Guadalajara
+240,25-02-2024,Juan,Pasta,100,5,CDMX
+241,2024/02/15,Ana,Tacos,one hundred,2,Monterrey
+242,2024/01/29,Luis,Hotdog,one hundred,2,
+243,29-01-2024,Juan,Hotdog,one hundred,5,Monterrey
+244,16-01-2024,Ana,Tacos,100,1,
+245,2024/02/15,Sofia,Burger,100,4,Queretaro
+246,2024-02-23,Lucia,Hotdog,50,1,Monterrey
+247,2024-01-14,Miguel,Pasta,120,1,
+248,2024-01-19,Carlos,Pizza,one hundred,4,Queretaro
+249,2024/02/20,Lucia,Pizza,120,5,Toluca
+250,2024/01/02,Miguel,Sushi,80,3,Puebla
+251,2024/01/01,Sofia,Burger,80,1,Toluca
+252,2024-01-24,Miguel,Sushi,150,5,CDMX
+253,25-01-2024,Juan,Pasta,100,3,Queretaro
+254,02-01-2024,Ana,Tacos,50,5,Queretaro
+255,18-02-2024,Luis,Pizza,100,2,
+256,2024/02/19,Lucia,Pasta,80,2,CDMX
+257,15-02-2024,Juan,Tacos,80,1,Monterrey
+258,29-02-2024,Miguel,Hotdog,150,4,Monterrey
+259,2024/01/03,Maria,Tacos,50,3,Monterrey
+260,08-01-2024,Pedro,Hotdog,120,3,Guadalajara
+261,2024/02/01,Lucia,Tacos,150,3,
+262,2024/01/06,Pedro,Pizza,80,5,Monterrey
+263,2024-01-21,Ana,Tacos,100,4,Toluca
+264,15-02-2024,Luis,Pasta,120,1,Queretaro
+265,25-02-2024,Elena,Hotdog,50,1,Queretaro
+266,10-02-2024,Sofia,Sushi,80,1,Guadalajara
+267,2024/02/24,,Hotdog,one hundred,1,Guadalajara
+268,2024/02/19,Sofia,Tacos,150,1,Toluca
+269,2024/01/10,Lucia,Tacos,50,5,Guadalajara
+270,03-02-2024,Pedro,Tacos,80,1,CDMX
+271,2024-02-17,Lucia,Sushi,150,1,Monterrey
+272,19-02-2024,Lucia,Burger,100,4,Guadalajara
+273,2024-01-08,Ana,Hotdog,120,1,
+274,13-02-2024,,Tacos,150,5,Monterrey
+275,27-02-2024,Luis,Pasta,80,3,Toluca
+276,2024-01-15,Maria,Burger,120,1,Monterrey
+277,2024/02/05,Sofia,Hotdog,150,2,Toluca
+278,2024-02-26,Ana,Tacos,120,5,Puebla
+279,19-02-2024,Elena,Pizza,100,1,Puebla
+280,2024/01/30,Miguel,Tacos,150,5,Guadalajara
+281,2024-02-19,Pedro,Sushi,50,1,Toluca
+282,10-01-2024,Luis,Burger,80,3,Toluca
+283,27-02-2024,Ana,Tacos,150,3,Guadalajara
+284,10-02-2024,Elena,Sushi,one hundred,2,Toluca
+285,2024/03/01,Luis,Burger,150,3,
+286,2024/02/29,Juan,Pizza,one hundred,5,Monterrey
+287,2024-02-11,Elena,Hotdog,50,4,Queretaro
+288,04-02-2024,,Tacos,120,3,Puebla
+289,2024/01/05,Juan,Burger,120,4,Guadalajara
+290,2024/01/22,Luis,Tacos,100,3,Puebla
+291,09-01-2024,Miguel,Sushi,80,4,CDMX
+292,18-01-2024,Maria,Burger,one hundred,3,Puebla
+293,2024/02/25,Pedro,Burger,80,3,Toluca
+294,16-02-2024,Maria,Burger,150,4,Puebla
+295,26-02-2024,Lucia,Pizza,one hundred,4,Toluca
+296,2024-01-30,Maria,Sushi,50,3,Puebla
+297,2024/02/08,,Hotdog,50,1,Puebla
+298,09-01-2024,Sofia,Hotdog,120,1,Toluca
+299,2024-02-05,Sofia,Sushi,120,5,Puebla
+300,2024/02/18,Carlos,Sushi,50,2,CDMX
+301,26-01-2024,Sofia,Sushi,80,2,Toluca
+302,02-02-2024,Miguel,Pizza,one hundred,2,Queretaro
+303,22-01-2024,Miguel,Hotdog,150,2,Monterrey
+304,2024/02/29,Sofia,Burger,150,3,Toluca
+305,2024/01/22,Miguel,Sushi,150,3,Puebla
+306,2024-02-22,Sofia,Tacos,120,5,Monterrey
+307,2024/02/20,,Pizza,100,5,Toluca
+308,2024/01/15,Juan,Sushi,150,5,
+309,23-02-2024,Luis,Pasta,150,1,Guadalajara
+310,02-01-2024,Sofia,Hotdog,80,4,Toluca
+311,2024/02/19,Lucia,Pasta,80,5,Guadalajara
+312,05-02-2024,,Hotdog,100,2,Puebla
+313,2024/02/28,Sofia,Sushi,100,5,Puebla
+314,2024-01-13,Carlos,Sushi,100,3,Queretaro
+315,2024/01/14,Lucia,Tacos,150,3,Monterrey
+316,2024/01/08,,Sushi,120,3,
+317,2024-02-21,Carlos,Pizza,50,3,Puebla
+318,11-02-2024,Lucia,Burger,150,3,Toluca
+319,14-02-2024,Luis,Pizza,150,2,Guadalajara
+320,2024/01/04,Miguel,Burger,50,1,Puebla
+321,2024/01/22,Lucia,Pizza,80,1,Toluca
+322,2024-02-29,Pedro,Pasta,120,4,Queretaro
+323,13-01-2024,Sofia,Tacos,50,5,Guadalajara
+324,2024/02/04,Juan,Burger,80,1,
+325,26-01-2024,Luis,Pasta,100,1,CDMX
+326,2024/01/20,Elena,Pizza,100,3,Puebla
+327,2024/02/11,Miguel,Hotdog,80,5,Puebla
+328,2024-01-18,Ana,Tacos,120,3,Queretaro
+329,2024-01-12,Sofia,Tacos,80,2,Toluca
+330,2024/02/24,Pedro,Hotdog,50,4,Queretaro
+331,2024-01-07,Luis,Hotdog,80,1,Monterrey
+332,2024-01-25,Lucia,Tacos,100,5,Queretaro
+333,2024-02-06,Carlos,Pasta,80,1,Queretaro
+334,08-01-2024,Carlos,Burger,150,3,Queretaro
+335,2024/01/08,Carlos,Tacos,80,2,Puebla
+336,10-01-2024,Elena,Tacos,150,4,
+337,2024/02/04,Maria,Burger,150,1,Toluca
+338,2024/01/29,Sofia,Pizza,50,1,
+339,2024/02/05,Maria,Sushi,80,3,
+340,03-02-2024,Ana,Pasta,150,4,CDMX
+341,2024/02/27,Lucia,Pizza,150,4,Puebla
+342,2024-02-06,Miguel,Hotdog,100,1,Puebla
+343,2024-01-17,Maria,Sushi,one hundred,4,Monterrey
+344,2024-02-14,Miguel,Pizza,50,4,CDMX
+345,19-01-2024,Luis,Burger,120,3,Puebla
+346,29-01-2024,Pedro,Pizza,150,2,Queretaro
+347,25-02-2024,Ana,Burger,120,5,Guadalajara
+348,2024-02-16,Juan,Pizza,120,5,Puebla
+349,04-02-2024,Maria,Burger,80,3,Guadalajara
+350,2024/02/29,Ana,Pizza,120,5,
+351,2024-02-29,Maria,Burger,one hundred,5,CDMX
+352,2024/01/29,,Pasta,80,1,Puebla
+353,2024-01-29,Miguel,Burger,50,2,Toluca
+354,2024-01-19,Elena,Tacos,100,2,Monterrey
+355,2024-02-26,,Sushi,100,3,CDMX
+356,2024/02/05,Luis,Pasta,150,4,CDMX
+357,2024/01/23,,Hotdog,100,4,Puebla
+358,10-01-2024,Pedro,Burger,120,2,
+359,15-01-2024,Luis,Hotdog,150,4,Puebla
+360,2024/02/05,Luis,Hotdog,80,3,Queretaro
+361,06-01-2024,Sofia,Pizza,80,1,Monterrey
+362,2024/01/25,Elena,Sushi,one hundred,1,Guadalajara
+363,2024/02/21,,Sushi,80,3,Monterrey
+364,2024-02-28,Maria,Burger,50,4,Guadalajara
+365,2024/02/14,Maria,Hotdog,150,3,
+366,19-01-2024,Lucia,Sushi,100,3,Monterrey
+367,02-02-2024,Lucia,Pizza,120,3,Guadalajara
+368,24-01-2024,Pedro,Pizza,80,2,CDMX
+369,2024/01/17,Elena,Sushi,100,2,Guadalajara
+370,2024-01-22,Pedro,Sushi,120,5,Queretaro
+371,2024/03/01,Sofia,Tacos,120,4,Puebla
+372,2024/01/11,Sofia,Burger,150,4,Guadalajara
+373,2024/02/28,,Pizza,50,1,
+374,01-01-2024,Luis,Pasta,80,1,Guadalajara
+375,02-02-2024,Sofia,Pizza,150,4,Queretaro
+376,2024-02-01,Juan,Sushi,50,1,Toluca
+377,16-02-2024,Miguel,Tacos,one hundred,4,
+378,2024-03-01,Ana,Pizza,80,2,Toluca
+379,03-02-2024,Sofia,Tacos,50,3,Puebla
+380,2024/01/30,Maria,Pasta,50,1,CDMX
+381,26-01-2024,Pedro,Sushi,50,2,CDMX
+382,01-02-2024,,Tacos,50,5,CDMX
+383,2024-01-15,Elena,Hotdog,50,3,Toluca
+384,2024/02/06,Juan,Burger,100,1,Guadalajara
+385,2024-02-07,Pedro,Pizza,150,2,Toluca
+386,23-02-2024,,Sushi,80,1,Toluca
+387,17-02-2024,Juan,Pizza,50,3,Toluca
+388,2024/02/19,Elena,Hotdog,100,1,Queretaro
+389,18-01-2024,Lucia,Burger,120,4,Guadalajara
+390,2024/02/13,,Hotdog,one hundred,5,Monterrey
+391,2024-02-21,Ana,Pizza,120,2,Queretaro
+392,25-01-2024,Sofia,Pizza,one hundred,3,Puebla
+393,24-01-2024,Ana,Burger,one hundred,4,Puebla
+394,2024/02/05,Miguel,Hotdog,50,3,Toluca
+395,2024/01/06,Elena,Tacos,50,3,Puebla
+396,2024-01-25,Miguel,Burger,80,4,Guadalajara
+397,09-01-2024,Carlos,Tacos,50,2,Puebla
+398,18-01-2024,Carlos,Hotdog,100,3,Guadalajara
+399,2024/02/16,Lucia,Sushi,120,1,Guadalajara
+400,2024-01-20,Pedro,Tacos,120,3,Puebla
+401,22-01-2024,,Sushi,100,5,Queretaro
+402,13-01-2024,Sofia,Burger,100,3,Queretaro
+403,2024/02/14,Lucia,Sushi,100,4,Monterrey
+404,22-02-2024,Sofia,Pizza,80,5,Toluca
+405,2024/01/12,Miguel,Pizza,120,2,Puebla
+406,21-02-2024,Ana,Hotdog,80,3,Guadalajara
+407,2024/01/17,Luis,Pasta,120,1,Puebla
+408,08-02-2024,Elena,Hotdog,120,5,CDMX
+409,20-02-2024,Miguel,Sushi,50,1,
+410,2024/01/16,,Tacos,150,1,Toluca
+411,2024/02/11,,Hotdog,100,4,CDMX
+412,2024-01-01,Carlos,Burger,150,5,Toluca
+413,2024/02/14,Maria,Hotdog,120,5,Queretaro
+414,2024-02-02,Sofia,Pizza,100,4,CDMX
+415,2024/01/08,Luis,Tacos,120,2,Toluca
+416,31-01-2024,Lucia,Pizza,120,3,CDMX
+417,2024-01-20,Ana,Pizza,50,2,Queretaro
+418,2024/01/16,Luis,Sushi,150,4,Puebla
+419,15-01-2024,,Burger,120,4,CDMX
+420,2024/02/17,Maria,Hotdog,120,1,Queretaro
+421,2024-01-14,Carlos,Pasta,50,5,CDMX
+422,2024/02/21,Luis,Tacos,120,1,Monterrey
+423,12-02-2024,Miguel,Pasta,120,5,Puebla
+424,2024-02-07,Sofia,Tacos,150,2,
+425,2024/02/13,Carlos,Sushi,80,3,CDMX
+426,16-01-2024,Ana,Burger,80,5,Puebla
+427,2024/01/27,Luis,Sushi,80,4,Queretaro
+428,2024/02/04,,Burger,120,3,Guadalajara
+429,12-01-2024,Lucia,Sushi,one hundred,3,CDMX
+430,2024-02-01,Maria,Hotdog,150,4,Puebla
+431,13-02-2024,Pedro,Pasta,120,2,CDMX
+432,2024-02-06,Maria,Tacos,one hundred,2,Toluca
+433,2024-01-19,Lucia,Sushi,120,5,Toluca
+434,2024/01/08,Ana,Tacos,100,5,
+435,2024-02-18,Lucia,Sushi,120,1,Queretaro
+436,2024/02/23,Maria,Tacos,50,4,Monterrey
+437,2024-01-23,Lucia,Pizza,80,2,
+438,2024/02/17,Sofia,Pasta,120,2,Toluca
+439,2024-01-09,Maria,Pizza,150,3,Toluca
+440,2024-02-04,Sofia,Pasta,150,3,
+441,2024/02/02,Ana,Burger,120,1,Monterrey
+442,2024/02/25,Luis,Pasta,80,2,Queretaro
+443,2024-01-21,,Hotdog,150,3,Queretaro
+444,27-01-2024,Lucia,Pizza,50,4,Toluca
+445,17-02-2024,Sofia,Hotdog,100,5,CDMX
+446,2024/02/25,Ana,Pasta,100,1,
+447,04-02-2024,Maria,Hotdog,120,3,Monterrey
+448,23-02-2024,Sofia,Sushi,150,4,
+449,2024/01/22,Juan,Pizza,one hundred,4,CDMX
+450,2024-01-08,Lucia,Hotdog,one hundred,4,Guadalajara
+451,2024-02-14,,Tacos,100,1,Queretaro
+452,24-01-2024,Ana,Tacos,80,1,Puebla
+453,10-02-2024,Maria,Hotdog,50,1,Guadalajara
+454,2024-01-31,Luis,Sushi,120,1,CDMX
+455,14-02-2024,Ana,Hotdog,120,1,Guadalajara
+456,2024-01-25,Ana,Pizza,100,2,Puebla
+457,2024-02-19,,Pasta,150,5,CDMX
+458,2024/02/09,Luis,Hotdog,80,2,Puebla
+459,2024/02/09,Lucia,Burger,one hundred,1,Guadalajara
+460,2024-02-18,Elena,Pasta,120,3,
+461,2024-01-09,Carlos,Pasta,one hundred,5,Toluca
+462,2024/02/08,Elena,Tacos,50,3,Guadalajara
+463,2024/02/03,Miguel,Burger,100,1,
+464,2024-02-27,Lucia,Hotdog,120,5,CDMX
+465,2024-02-03,Sofia,Tacos,150,4,Monterrey
+466,2024/02/04,Luis,Hotdog,50,1,Toluca
+467,2024-01-05,Carlos,Burger,one hundred,1,
+468,2024/01/26,Carlos,Pasta,120,4,Queretaro
+469,2024-01-26,,Sushi,80,3,CDMX
+470,2024-01-20,Miguel,Burger,80,5,Monterrey
+471,2024/01/26,,Pasta,50,3,Queretaro
+472,2024/01/28,Maria,Pizza,120,1,Puebla
+473,2024/02/09,Juan,Tacos,80,1,CDMX
+474,2024-02-15,Juan,Burger,100,5,Toluca
+475,2024/02/20,Carlos,Burger,100,1,
+476,2024-02-27,Sofia,Hotdog,50,3,Queretaro
+477,2024/02/06,Ana,Hotdog,100,1,Puebla
+478,2024/02/24,Luis,Tacos,50,5,Queretaro
+479,2024-02-16,Maria,Pasta,50,1,Guadalajara
+480,03-01-2024,Sofia,Hotdog,80,1,Toluca
+481,2024/02/21,,Hotdog,80,4,Queretaro
+482,21-01-2024,Ana,Sushi,150,1,Guadalajara
+483,2024/01/15,Juan,Hotdog,one hundred,4,
+484,19-01-2024,Sofia,Pizza,50,3,Guadalajara
+485,2024/01/19,Carlos,Pasta,120,3,Toluca
+486,2024-02-01,Miguel,Burger,120,1,Guadalajara
+487,04-02-2024,,Pasta,100,1,
+488,12-02-2024,Carlos,Pizza,80,4,Puebla
+489,2024-01-04,Carlos,Pizza,one hundred,2,
+490,03-02-2024,Sofia,Hotdog,50,5,CDMX
+491,2024-02-02,,Hotdog,one hundred,5,CDMX
+492,2024/01/28,Luis,Burger,100,4,Queretaro
+493,2024/02/23,Sofia,Tacos,80,1,Guadalajara
+494,2024/01/09,Ana,Burger,120,4,Monterrey
+495,2024-01-27,Miguel,Tacos,80,4,Monterrey
+496,30-01-2024,Ana,Pizza,100,5,CDMX
+497,14-01-2024,Luis,Pizza,100,4,Toluca
+498,2024/01/04,Carlos,Tacos,80,1,Puebla
+499,24-02-2024,Miguel,Pasta,50,4,CDMX
+500,2024-02-21,Ana,Pizza,one hundred,2,Guadalajara
+501,13-01-2024,Sofia,Pasta,50,5,Toluca
+502,2024-01-17,Juan,Pizza,120,2,CDMX
+503,27-02-2024,Ana,Pizza,50,2,Toluca
+504,2024/01/28,Pedro,Hotdog,one hundred,4,Guadalajara
+505,2024-01-23,Luis,Tacos,80,1,Toluca
+506,2024/02/09,Maria,Pasta,120,5,Puebla
+507,2024-01-04,Carlos,Hotdog,80,5,Guadalajara
+508,2024/02/10,Juan,Hotdog,100,4,Toluca
+509,20-02-2024,Sofia,Sushi,120,3,Guadalajara
+510,02-01-2024,Elena,Burger,one hundred,3,CDMX
+511,21-02-2024,Miguel,Tacos,80,2,CDMX
+512,2024/01/16,Maria,Tacos,50,2,Toluca
+513,24-02-2024,Sofia,Burger,150,3,
+514,2024/02/17,Sofia,Sushi,one hundred,3,Toluca
+515,2024-02-06,Elena,Burger,120,5,Monterrey
+516,12-01-2024,Juan,Pizza,one hundred,5,Guadalajara
+517,2024/01/02,Lucia,Pizza,150,2,
+518,09-01-2024,Luis,Tacos,one hundred,2,Toluca
+519,2024-02-15,Ana,Sushi,50,3,Queretaro
+520,2024/03/01,Pedro,Sushi,100,3,Guadalajara
+521,2024/01/11,Pedro,Pasta,100,2,Queretaro
+522,2024/02/05,Elena,Tacos,150,2,Puebla
+523,2024/01/20,Carlos,Burger,50,5,Puebla
+524,2024/02/24,Juan,Burger,150,2,Queretaro
+525,2024-02-06,Lucia,Burger,50,2,Monterrey
+526,2024-01-21,,Pizza,100,4,CDMX
+527,2024-01-17,Maria,Pasta,one hundred,3,
+528,2024/01/07,Juan,Pizza,120,2,Puebla
+529,01-02-2024,Sofia,Sushi,120,5,Queretaro
+530,2024/02/18,Maria,Burger,50,3,CDMX
+531,21-01-2024,Ana,Pizza,120,2,Queretaro
+532,2024/01/05,Ana,Tacos,150,4,Queretaro
+533,02-01-2024,,Burger,120,2,CDMX
+534,07-01-2024,Maria,Burger,150,5,Monterrey
+535,12-02-2024,Carlos,Burger,one hundred,4,Toluca
+536,05-02-2024,Luis,Pizza,120,1,Monterrey
+537,2024/02/22,,Sushi,50,1,Guadalajara
+538,2024/01/11,Carlos,Pizza,50,3,
+539,26-01-2024,Lucia,Pasta,150,4,Guadalajara
+540,24-01-2024,Sofia,Burger,100,4,Puebla
+541,2024-01-17,Carlos,Sushi,one hundred,1,CDMX
+542,12-02-2024,Miguel,Hotdog,150,2,Toluca
+543,04-01-2024,Miguel,Hotdog,120,5,Guadalajara
+544,31-01-2024,Ana,Hotdog,50,5,Toluca
+545,2024/02/27,Elena,Pasta,80,1,
+546,2024-01-29,Luis,Burger,80,1,Puebla
+547,2024/01/06,Pedro,Burger,80,5,Monterrey
+548,2024/01/21,Ana,Pizza,120,5,Monterrey
+549,24-02-2024,Miguel,Hotdog,50,5,Toluca
+550,03-02-2024,Ana,Hotdog,150,5,Toluca
+551,2024-02-18,Ana,Sushi,100,5,Monterrey
+552,26-02-2024,Carlos,Hotdog,150,5,Puebla
+553,2024-01-03,Carlos,Hotdog,150,4,CDMX
+554,26-01-2024,Maria,Pizza,100,3,CDMX
+555,22-01-2024,Carlos,Tacos,50,2,Guadalajara
+556,2024/01/20,Lucia,Tacos,120,5,Queretaro
+557,2024-01-06,Lucia,Burger,120,4,
+558,03-02-2024,Juan,Sushi,50,3,Queretaro
+559,02-02-2024,Luis,Sushi,50,2,Guadalajara
+560,2024-02-26,Juan,Burger,one hundred,1,Monterrey
+561,2024-02-15,Carlos,Tacos,150,4,Queretaro
+562,2024-02-29,,Pizza,120,5,Puebla
+563,12-01-2024,Elena,Sushi,80,3,Queretaro
+564,2024/02/23,Ana,Tacos,one hundred,1,Guadalajara
+565,2024/02/24,Maria,Burger,80,3,Queretaro
+566,2024/01/27,Juan,Pasta,one hundred,2,Queretaro
+567,2024/01/12,Juan,Burger,100,3,Puebla
+568,27-02-2024,Sofia,Hotdog,120,3,Queretaro
+569,2024/02/03,Pedro,Sushi,150,3,Toluca
+570,2024/02/11,Elena,Tacos,50,4,CDMX
+571,22-01-2024,,Tacos,100,3,Guadalajara
+572,2024/01/10,Maria,Pizza,150,4,Queretaro
+573,2024/01/21,Luis,Pasta,one hundred,4,Monterrey
+574,17-01-2024,Pedro,Hotdog,150,5,
+575,13-01-2024,Maria,Pasta,120,3,Toluca
+576,2024-01-20,,Sushi,50,4,Guadalajara
+577,17-02-2024,Miguel,Burger,100,1,Guadalajara
+578,2024-01-23,Carlos,Hotdog,100,3,Monterrey
+579,07-02-2024,Lucia,Pizza,150,5,Toluca
+580,05-01-2024,Maria,Sushi,120,5,Monterrey
+581,2024-01-27,Luis,Burger,100,4,Toluca
+582,27-02-2024,Luis,Tacos,80,1,Puebla
+583,2024/01/22,Luis,Tacos,50,4,Monterrey
+584,2024-01-14,Elena,Burger,50,2,Toluca
+585,2024/01/28,Pedro,Hotdog,120,4,CDMX
+586,2024/01/03,Maria,Pasta,50,3,
+587,2024/02/23,Maria,Pizza,80,2,Queretaro
+588,26-02-2024,Carlos,Burger,150,5,Monterrey
+589,2024-01-11,Juan,Tacos,120,5,Toluca
+590,03-02-2024,Pedro,Pasta,100,4,Monterrey
+591,2024-02-18,Luis,Hotdog,one hundred,2,Queretaro
+592,2024-01-09,Juan,Sushi,50,3,Queretaro
+593,2024-02-11,Pedro,Pasta,150,5,CDMX
+594,2024-02-08,,Pizza,50,1,Queretaro
+595,08-01-2024,Lucia,Hotdog,100,4,Queretaro
+596,2024-01-10,,Pasta,one hundred,4,Queretaro
+597,2024/01/07,Miguel,Tacos,80,4,
+598,2024-02-27,Miguel,Pasta,100,1,
+599,07-01-2024,Maria,Sushi,100,5,Guadalajara
+600,2024/01/23,Pedro,Tacos,150,4,Guadalajara
+601,14-02-2024,Sofia,Burger,one hundred,1,CDMX
+602,2024/02/23,,Hotdog,50,5,CDMX
+603,2024/02/16,Ana,Tacos,120,3,Monterrey
+604,2024-01-30,Ana,Burger,100,3,
+605,13-02-2024,Pedro,Pasta,50,1,
+606,2024/01/09,,Burger,120,5,Monterrey
+607,2024/02/26,Ana,Tacos,80,1,Puebla
+608,26-01-2024,Carlos,Hotdog,120,4,Queretaro
+609,2024-02-26,Ana,Burger,50,2,CDMX
+610,2024/01/27,Lucia,Sushi,80,5,Puebla
+611,19-02-2024,Elena,Pizza,80,4,Puebla
+612,08-01-2024,Lucia,Pizza,one hundred,3,CDMX
+613,2024/02/15,Miguel,Pasta,150,2,Queretaro
+614,25-02-2024,Miguel,Sushi,150,1,Puebla
+615,2024/02/12,Maria,Hotdog,120,2,
+616,2024/02/22,Elena,Pizza,one hundred,2,Toluca
+617,24-02-2024,Lucia,Burger,one hundred,4,Monterrey
+618,16-01-2024,Carlos,Pizza,150,4,Puebla
+619,2024-02-22,Ana,Hotdog,150,4,CDMX
+620,24-02-2024,Lucia,Tacos,120,1,CDMX
+621,26-01-2024,Juan,Sushi,50,5,Toluca
+622,10-02-2024,Miguel,Sushi,120,3,Monterrey
+623,2024-02-22,Maria,Hotdog,150,5,Puebla
+624,2024/02/15,Sofia,Pasta,50,2,CDMX
+625,22-01-2024,,Tacos,100,1,CDMX
+626,2024-02-27,Lucia,Burger,120,1,Monterrey
+627,2024-02-09,Maria,Pizza,120,2,Puebla
+628,2024-02-22,Sofia,Pizza,50,5,CDMX
+629,19-02-2024,Lucia,Pasta,150,2,Puebla
+630,2024/01/01,Juan,Sushi,150,4,Toluca
+631,2024-02-19,Elena,Burger,80,1,Puebla
+632,2024/02/12,Elena,Tacos,120,4,Toluca
+633,2024/02/28,Maria,Tacos,100,3,Puebla
+634,2024-02-21,Luis,Hotdog,150,3,
+635,2024/02/14,Sofia,Pasta,150,2,Guadalajara
+636,2024/01/14,Carlos,Pasta,80,2,Toluca
+637,2024/02/04,,Tacos,100,5,Puebla
+638,2024/02/07,,Pasta,150,3,
+639,2024-01-28,Miguel,Pizza,one hundred,2,CDMX
+640,2024-02-12,Maria,Tacos,80,3,Queretaro
+641,2024-01-17,Juan,Pasta,80,5,CDMX
+642,23-01-2024,Ana,Sushi,150,2,Queretaro
+643,2024/02/11,Pedro,Burger,100,1,Puebla
+644,25-01-2024,,Tacos,50,1,Queretaro
+645,2024-01-17,Elena,Hotdog,100,5,Toluca
+646,2024/02/17,Maria,Pasta,100,4,Guadalajara
+647,2024-02-13,Luis,Burger,50,4,CDMX
+648,28-01-2024,Miguel,Tacos,150,3,CDMX
+649,22-01-2024,Luis,Pizza,100,5,CDMX
+650,2024/02/19,Elena,Pasta,150,5,Monterrey
+651,2024/01/05,Sofia,Sushi,80,5,CDMX
+652,2024/02/20,Luis,Hotdog,120,1,Monterrey
+653,2024-01-15,,Tacos,100,2,
+654,2024/02/09,Lucia,Sushi,50,1,Queretaro
+655,23-01-2024,Maria,Pasta,150,2,CDMX
+656,13-02-2024,Pedro,Pizza,150,3,CDMX
+657,2024/02/28,Sofia,Sushi,120,4,CDMX
+658,2024/01/19,Maria,Tacos,50,2,
+659,2024/02/04,Juan,Pasta,one hundred,2,
+660,13-02-2024,Ana,Burger,120,1,Queretaro
+661,2024-02-13,Juan,Hotdog,50,1,CDMX
+662,2024-01-04,Carlos,Sushi,one hundred,2,Monterrey
+663,27-01-2024,Lucia,Pasta,100,1,Puebla
+664,2024-02-13,Miguel,Pizza,150,1,
+665,2024/02/17,Juan,Pasta,100,5,CDMX
+666,2024/01/19,Carlos,Sushi,one hundred,4,Puebla
+667,2024/01/26,Juan,Hotdog,80,2,Queretaro
+668,2024/01/26,Carlos,Pasta,100,1,Toluca
+669,2024/02/25,Luis,Pizza,one hundred,5,Toluca
+670,2024/01/26,Miguel,Pizza,100,2,Puebla
+671,2024/02/27,Miguel,Burger,80,5,
+672,2024-01-17,Ana,Burger,150,1,
+673,2024/02/18,Lucia,Pasta,100,1,Monterrey
+674,2024-01-07,Elena,Hotdog,100,2,Queretaro
+675,2024-02-11,Ana,Tacos,80,3,Puebla
+676,29-01-2024,Elena,Pasta,150,2,Toluca
+677,06-02-2024,Sofia,Hotdog,100,2,
+678,2024/01/15,,Hotdog,100,2,Queretaro
+679,16-02-2024,Lucia,Hotdog,100,4,Toluca
+680,2024-01-07,,Sushi,one hundred,3,
+681,2024-02-22,Miguel,Burger,50,1,CDMX
+682,2024/02/24,,Pizza,150,4,
+683,2024-02-07,Juan,Sushi,150,4,Queretaro
+684,2024-02-19,Sofia,Hotdog,150,3,Guadalajara
+685,2024/01/30,Miguel,Pizza,150,1,Queretaro
+686,2024/01/16,,Burger,80,4,Guadalajara
+687,2024/01/12,Elena,Pasta,80,4,Monterrey
+688,2024-01-03,Lucia,Burger,one hundred,3,Guadalajara
+689,2024/01/03,Maria,Sushi,100,4,Puebla
+690,28-02-2024,Juan,Pizza,100,1,Queretaro
+691,2024/02/03,Carlos,Pasta,150,5,Guadalajara
+692,2024/01/25,Pedro,Tacos,50,5,Monterrey
+693,2024-01-25,Miguel,Hotdog,100,4,
+694,2024/01/31,Juan,Sushi,120,2,Guadalajara
+695,2024/01/05,,Tacos,80,2,Monterrey
+696,2024/02/08,Ana,Pasta,100,1,Puebla
+697,13-02-2024,Lucia,Burger,120,1,Guadalajara
+698,2024-01-03,Elena,Sushi,150,1,Toluca
+699,2024-01-10,Luis,Tacos,150,4,Toluca
+700,2024/02/06,Juan,Pasta,100,1,Guadalajara
+701,2024/01/29,Lucia,Hotdog,120,5,Guadalajara
+702,2024/02/20,Luis,Sushi,100,2,Queretaro
+703,13-02-2024,Lucia,Sushi,80,4,Puebla
+704,2024-01-09,Juan,Burger,150,4,
+705,2024/01/10,Ana,Burger,150,5,CDMX
+706,2024/02/26,Miguel,Pizza,one hundred,2,Toluca
+707,2024-02-04,,Pasta,120,3,
+708,2024/01/03,Miguel,Hotdog,120,4,Monterrey
+709,2024/02/07,Elena,Pizza,100,4,
+710,2024-01-15,Carlos,Sushi,120,3,Guadalajara
+711,2024/01/01,Juan,Sushi,150,1,Puebla
+712,2024-02-11,Sofia,Hotdog,80,4,Queretaro
+713,07-02-2024,Carlos,Sushi,100,5,Monterrey
+714,13-02-2024,Maria,Hotdog,150,4,Guadalajara
+715,2024/01/24,Miguel,Hotdog,100,5,Monterrey
+716,2024/02/19,Pedro,Pasta,50,2,Puebla
+717,2024/02/20,Luis,Pizza,120,3,
+718,2024/02/05,,Pasta,one hundred,4,Queretaro
+719,2024-01-01,Luis,Hotdog,120,1,CDMX
+720,2024-01-17,Sofia,Pizza,120,4,Toluca
+721,2024/02/11,Carlos,Pasta,50,2,Queretaro
+722,01-02-2024,Juan,Burger,150,3,Guadalajara
+723,2024/01/03,Miguel,Sushi,150,2,Queretaro
+724,03-01-2024,Maria,Pasta,one hundred,2,CDMX
+725,18-01-2024,Sofia,Pasta,150,2,Toluca
+726,2024/01/01,Ana,Pizza,150,5,Monterrey
+727,23-01-2024,Maria,Sushi,120,4,Toluca
+728,01-01-2024,Luis,Hotdog,150,1,Toluca
+729,19-01-2024,Ana,Sushi,150,5,Monterrey
+730,14-02-2024,Pedro,Sushi,80,3,
+731,2024/01/30,Lucia,Sushi,120,1,Monterrey
+732,05-01-2024,,Burger,80,3,Puebla
+733,2024/01/23,Miguel,Pizza,100,2,Monterrey
+734,06-01-2024,,Pasta,50,5,Guadalajara
+735,31-01-2024,Sofia,Burger,100,2,Queretaro
+736,2024-02-13,Lucia,Pasta,80,3,Guadalajara
+737,2024-01-15,Maria,Sushi,50,1,CDMX
+738,2024/02/13,Lucia,Sushi,one hundred,5,CDMX
+739,24-02-2024,Sofia,Sushi,150,3,Puebla
+740,2024/01/12,Carlos,Hotdog,150,2,CDMX
+741,03-02-2024,Lucia,Sushi,one hundred,3,Puebla
+742,2024/02/25,Luis,Hotdog,150,4,Monterrey
+743,2024-02-14,Juan,Pasta,150,1,Monterrey
+744,2024/01/24,Carlos,Burger,80,3,Puebla
+745,09-02-2024,Sofia,Burger,80,4,Queretaro
+746,18-02-2024,Sofia,Hotdog,80,5,Guadalajara
+747,2024/02/06,Maria,Pizza,80,5,Puebla
+748,24-02-2024,Maria,Burger,80,4,
+749,2024-01-01,Pedro,Hotdog,150,5,Queretaro
+750,21-01-2024,Carlos,Tacos,150,1,Puebla
+751,2024/01/07,Luis,Pizza,100,4,
+752,2024-02-10,Lucia,Pasta,100,3,Toluca
+753,05-02-2024,Sofia,Pizza,100,5,Guadalajara
+754,2024/02/06,,Pasta,100,3,Monterrey
+755,2024/02/13,Lucia,Pasta,50,4,Toluca
+756,19-01-2024,,Burger,100,4,Queretaro
+757,2024/02/09,Pedro,Pizza,one hundred,3,Guadalajara
+758,21-01-2024,,Tacos,150,4,Monterrey
+759,26-02-2024,Sofia,Pasta,120,4,Guadalajara
+760,2024-01-12,Luis,Pasta,100,1,Guadalajara
+761,11-01-2024,Ana,Pizza,one hundred,4,Toluca
+762,2024-01-04,Pedro,Sushi,50,1,Monterrey
+763,2024-02-09,Ana,Pasta,120,3,Guadalajara
+764,2024/01/16,Carlos,Hotdog,80,5,
+765,2024-01-11,Juan,Pasta,100,4,Puebla
+766,2024/02/25,Carlos,Sushi,150,2,Toluca
+767,08-02-2024,,Pasta,150,4,Toluca
+768,2024/02/10,Miguel,Tacos,120,5,Guadalajara
+769,2024-02-21,Lucia,Tacos,100,2,Monterrey
+770,2024-01-01,Miguel,Burger,120,5,CDMX
+771,14-02-2024,Lucia,Tacos,one hundred,4,
+772,2024/01/19,Maria,Pizza,80,4,Toluca
+773,28-01-2024,Maria,Burger,120,4,Guadalajara
+774,2024-01-17,Pedro,Pasta,150,3,Monterrey
+775,2024/02/11,Miguel,Tacos,50,2,Guadalajara
+776,2024-01-19,,Hotdog,100,5,Puebla
+777,13-01-2024,Juan,Burger,one hundred,5,CDMX
+778,2024-01-12,Carlos,Tacos,120,1,Guadalajara
+779,2024-01-06,Juan,Hotdog,120,3,
+780,21-02-2024,Sofia,Hotdog,50,3,CDMX
+781,2024-02-23,Juan,Tacos,50,5,Puebla
+782,2024-01-12,Carlos,Hotdog,50,2,Puebla
+783,19-02-2024,Maria,Pasta,80,4,Queretaro
+784,2024-02-19,Miguel,Pasta,120,4,Queretaro
+785,20-01-2024,Luis,Pasta,150,5,CDMX
+786,17-01-2024,,Tacos,50,2,CDMX
+787,2024/01/16,Pedro,Tacos,one hundred,3,Toluca
+788,08-01-2024,Maria,Pizza,150,4,Queretaro
+789,2024-02-08,Sofia,Pizza,120,1,Queretaro
+790,09-02-2024,,Pizza,one hundred,2,Queretaro
+791,2024-02-04,Luis,Hotdog,150,3,
+792,27-02-2024,Maria,Pizza,100,2,Monterrey
+793,2024-02-27,Lucia,Pasta,100,5,Queretaro
+794,2024-02-01,Elena,Burger,100,4,Monterrey
+795,2024/02/25,Miguel,Burger,one hundred,2,Puebla
+796,19-01-2024,Miguel,Tacos,150,4,Queretaro
+797,2024-01-12,Elena,Tacos,80,3,Queretaro
+798,2024/01/05,Miguel,Hotdog,120,5,Guadalajara
+799,09-02-2024,Sofia,Hotdog,50,1,Toluca
+800,2024-02-12,Juan,Burger,50,2,CDMX
+801,2024-02-01,Ana,Pizza,120,4,Toluca
+802,2024/02/09,Elena,Tacos,one hundred,2,Toluca
+803,2024-02-15,Juan,Burger,50,4,
+804,2024-02-10,Sofia,Sushi,120,3,
+805,2024-02-15,Elena,Tacos,50,3,CDMX
+806,2024-03-01,Miguel,Pizza,80,5,Puebla
+807,2024-01-13,Miguel,Pasta,80,5,Queretaro
+808,05-02-2024,Ana,Pasta,120,4,CDMX
+809,2024-01-11,Miguel,Hotdog,80,5,Toluca
+810,29-01-2024,Sofia,Sushi,100,3,Puebla
+811,2024/02/18,Pedro,Pasta,80,5,Toluca
+812,14-01-2024,Miguel,Pasta,120,4,Puebla
+813,2024/01/01,Juan,Tacos,150,2,Monterrey
+814,01-01-2024,Maria,Burger,50,3,Toluca
+815,2024/02/02,Elena,Sushi,50,4,Monterrey
+816,2024-01-10,Carlos,Tacos,80,2,Monterrey
+817,21-02-2024,Ana,Sushi,80,1,Queretaro
+818,21-01-2024,Luis,Hotdog,150,1,Toluca
+819,11-02-2024,Juan,Pasta,120,1,
+820,04-01-2024,Sofia,Hotdog,50,2,Queretaro
+821,2024/02/11,Juan,Pasta,120,1,Monterrey
+822,2024-02-03,Sofia,Sushi,100,5,Queretaro
+823,2024-01-15,Juan,Pasta,120,4,
+824,2024/02/08,Miguel,Pizza,100,4,Guadalajara
+825,09-01-2024,Ana,Hotdog,50,5,Puebla
+826,2024-01-17,Pedro,Sushi,80,2,Puebla
+827,2024-02-05,Lucia,Hotdog,80,5,Toluca
+828,2024/02/17,Maria,Burger,one hundred,4,Monterrey
+829,2024/02/13,Ana,Pizza,120,3,Monterrey
+830,13-01-2024,Sofia,Sushi,100,2,Monterrey
+831,09-02-2024,Elena,Burger,80,2,Queretaro
+832,2024-01-24,Ana,Pizza,80,5,Guadalajara
+833,25-02-2024,Juan,Tacos,50,3,Puebla
+834,2024-01-31,Sofia,Burger,80,2,Toluca
+835,03-02-2024,Miguel,Hotdog,80,1,Puebla
+836,2024/02/07,Miguel,Pizza,50,3,Guadalajara
+837,2024/02/20,Elena,Tacos,one hundred,1,CDMX
+838,2024/01/25,Carlos,Pasta,100,1,CDMX
+839,2024/01/19,Pedro,Burger,150,1,Monterrey
+840,2024/02/01,Miguel,Pizza,150,4,Toluca
+841,2024/02/29,Juan,Pizza,150,3,Monterrey
+842,01-02-2024,Luis,Pizza,100,3,Queretaro
+843,2024-01-20,Miguel,Tacos,100,4,
+844,2024/01/02,Carlos,Burger,120,2,CDMX
+845,16-02-2024,Miguel,Pasta,80,4,Guadalajara
+846,2024-02-06,Pedro,Tacos,100,4,Toluca
+847,2024-01-09,,Burger,80,2,Monterrey
+848,2024/02/14,Miguel,Burger,80,5,Guadalajara
+849,2024-01-21,Miguel,Sushi,50,2,Monterrey
+850,2024-02-23,Juan,Tacos,120,4,Monterrey

@@ -1,0 +1,35 @@
+-¿Qué producto vende más?
+
+El producto con mayor volumen de ventas son Tacos, considerando la suma total de unidades vendidas. Esto indica que es el producto más demandado por los clientes y representa una parte importante del ingreso del negocio.
+
+
+-¿Quién es el mejor cliente?
+
+El cliente con mayor contribución económica es Ana, ya que presenta el mayor total acumulado en compras. Esto sugiere que es un cliente recurrente o con tickets de compra elevados, por lo que podría considerarse un cliente clave para la empresa.
+
+
+-¿Qué ciudad genera más dinero?
+
+La ciudad que genera mayores ingresos es Toluca, al concentrar el mayor volumen de ventas totales. Esto indica que es el mercado más fuerte y con mayor potencial de crecimiento para el negocio.
+
+
+-¿Qué problemas se identificaron en los datos?
+
+Durante el proceso de limpieza y análisis se detectaron varias inconsistencias:
+
+Presencia de valores nulos en campos clave como cliente y ciudad
+Formatos de fecha inconsistentes
+Datos incorrectos en la columna de precio
+Registros duplicados
+Falta de estandarización en los datos
+
+
+-¿Qué acciones se recomiendan para mejorar el negocio?
+
+Con base en el análisis realizado, se proponen las siguientes acciones:
+
+Potenciar la venta del producto más demandado (Tacos) mediante promociones o estrategias de marketing
+Fidelizar al mejor cliente (Ana) con programas de lealtad o beneficios exclusivos
+Invertir en la ciudad con mayor rendimiento (Toluca) para maximizar ingresos
+Mejorar la calidad de los datos implementando controles de validación en la captura de información
+Optimizar productos con menor desempeño mediante ajustes en precio, promoción o eliminación
