@@ -40,14 +40,14 @@ El script `limpieza_datos.py` realiza los siguientes pasos automatizados sobre e
 
 ## Hallazgos Clave (Insights de Negocio)
 
-* 🌮 **Producto Estrella:** Los **Tacos** representan el volumen más alto de ventas con **110 unidades** vendidas.
-* 👤 **Cliente Principal:** **Ana** lidera las compras con un acumulado total de **$7,000.0**.
-* 📍 **Top Ciudad en Ingresos:** **Toluca** es la plaza más rentable con un total de **$12,760.0** recopilados.
-* 💵 **Ticket Promedio:** El valor medio por transacción en el negocio se ubica en **$305.89**.
+*  **Producto Estrella:** Los **Tacos** representan el volumen más alto de ventas con **110 unidades** vendidas.
+*  **Cliente Principal:** **Ana** lidera las compras con un acumulado total de **$7,000.0**.
+*  **Top Ciudad en Ingresos:** **Toluca** es la plaza más rentable con un total de **$12,760.0** recopilados.
+*  **Ticket Promedio:** El valor medio por transacción en el negocio se ubica en **$305.89**.
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 1. **Clonar el repositorio:**
    ```bash
